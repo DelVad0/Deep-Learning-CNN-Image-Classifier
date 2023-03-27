@@ -1,6 +1,6 @@
 # Deep-Learning-CNN-Image-Classifier
 
-🔍# Investigación #: Se realizó una investigación previa para entender el problema y las herramientas necesarias para resolverlo. En este caso, se investigó sobre el aprendizaje automático, la visión por computadora y las librerías de Python necesarias para crear el modelo.
+🔍 Investigación : Se realizó una investigación previa para entender el problema y las herramientas necesarias para resolverlo. En este caso, se investigó sobre el aprendizaje automático, la visión por computadora y las librerías de Python necesarias para crear el modelo.
 
 📂 Manejo de datos: Se utilizó la librería de Python "Pillow" para cargar y procesar las imágenes de entrada, y se convirtieron en matrices numéricas de NumPy para poder ser utilizadas en el modelo.
 

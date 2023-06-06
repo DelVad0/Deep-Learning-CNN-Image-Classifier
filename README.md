@@ -12,4 +12,4 @@
 
 🔧 Optimización del modelo: Se realizó un proceso de ajuste de los parámetros del modelo para lograr una mayor precisión en la clasificación de las imágenes. Se probaron diferentes valores para el número de capas, el tamaño de los filtros, la tasa de aprendizaje y otros parámetros, y se eligieron los valores que proporcionaron el mejor rendimiento.
 
-🚀 Implementación: Finalmente, se implementó el modelo en una aplicación web utilizando la librería Flask de Python. La aplicación permite al usuario subir una imagen de un perro o un gato y devuelve una predicción de la categoría a la que pertenece la imagen.
+🚀 Implementación: Finalmente, se implementó el modelo en una aplicación web utilizando la librería Flask de Python. La aplicación permite al usuario subir una imagen de una persona feliz o triste y devuelve una predicción de la categoría a la que pertenece la imagen.
